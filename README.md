@@ -5,7 +5,7 @@ Repo untuk ArduThon 2026 berjudul SmartRoomIoT
 
 #### Persiapan
 - Pastikan Firebase URL sudah benar di kode (`https://smartroom-982da-default-rtdb.asia-southeast1.firebasedatabase.app/smartroom.json`).
-- Buka project SmartRoom di **[Wokwi]([https://wokwi.com](https://wokwi.com/projects/462890683615892481))**.
+- Buka project SmartRoom di **[Wokwi]([https://wokwi.com/projects/462890683615892481])**.
 
 ---
 
