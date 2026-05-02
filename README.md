@@ -21,7 +21,7 @@ Repo untuk ArduThon 2026 berjudul SmartRoomIoT
 - Masuk ke halaman SmartRoom.
 
 **3. Mengatur Koneksi Firebase**
-- Di kolom **FIREBASE DATABASE URL**, paste URL Firebase kamu.
+- Di kolom **FIREBASE DATABASE URL**, paste URL Firebase.
 - Klik tombol **SAVE**.
 - Pilih mode **FIREBASE LIVE**.
 
