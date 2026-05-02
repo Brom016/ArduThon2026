@@ -17,7 +17,7 @@ Repo untuk ArduThon 2026 berjudul SmartRoomIoT
 - OLED akan menampilkan "WiFi: OK" dan "Firebase: connected".
 
 **2. Membuka Dashboard Web**
-- Buka browser dan akses website kamu: `https://bromo.web.id`
+- Buka browser dan akses website kamu: `https://bromo.web.id/ArduThon2026`
 - Masuk ke halaman SmartRoom.
 
 **3. Mengatur Koneksi Firebase**
